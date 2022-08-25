@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="global-release" />
+      <option name="name" value="GLOBAL_RELEASE" />
+      <option name="url" value="https://globaldevtools.bbva.com/artifactory-api/repository-cib-app/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="central" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nova_central" />
+      <option name="name" value="RELEASE_NO_PLUGIN_VIRTUAL_REPO" />
+      <option name="url" value="http://cibartifactory.igrupobbva:8084/artifactory/RELEASE_NO_PLUGIN_VIRTUAL_REPO" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nova-release" />
+      <option name="name" value="ARQ-NOVA_Architecture_Release" />
+      <option name="url" value="http://cibartifactory.igrupobbva:8084/artifactory/ARQ-NOVA_Architecture_Release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshots" />
+      <option name="name" value="SNAPSHOT_NO_PLUGIN_VIRTUAL_REPO" />
+      <option name="url" value="http://cibartifactory.igrupobbva:8084/artifactory/SNAPSHOT_NO_PLUGIN_VIRTUAL_REPO" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nova-snapshots" />
+      <option name="name" value="ARQ-NOVA_Architecture_Snapshot" />
+      <option name="url" value="http://cibartifactory.igrupobbva:8084/artifactory/ARQ-NOVA_Architecture_Snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nova" />
+      <option name="name" value="NOVA_remote" />
+      <option name="url" value="http://cibartifactory.igrupobbva:8084/artifactory/NOVA_remote" />
+    </remote-repository>
+  </component>
+</project>
